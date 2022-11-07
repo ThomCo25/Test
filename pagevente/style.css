@@ -7,7 +7,7 @@
 }
 
 .module_page_vente {
-  display: flex;
+  display: block;
 }
 
 .right_content_vente_module {
